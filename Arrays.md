@@ -1,4 +1,4 @@
-**# Arrays Problems
+# Arrays Problems
 
 [**1. Two Sum**](https://leetcode.com/submissions/detail/1748773480/)
 
@@ -17,4 +17,4 @@
 [**1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold**](https://leetcode.com/submissions/detail/1757001911/)
 
 [**2210. Count Hills and Valleys in an Array**](https://leetcode.com/submissions/detail/1754663680/)
-**
+
